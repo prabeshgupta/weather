@@ -123,4 +123,19 @@ body {
     .search button {
         margin-top: 10px;
     }
+
+    .col>div {
+        margin-right: 15px;
+    }
+
+    .col img {
+        width: 30px;
+        margin-right: 10px;
+    }
+
+    .humidity,
+    .wind {
+        font-size: 18px;
+        margin-top: -6px;
+    }
 }
