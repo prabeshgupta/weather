@@ -124,8 +124,8 @@ body {
         margin-top: 10px;
     }
 
-    .col>div {
-        margin-right: 15px;
+    .col {
+        justify-content: space-between;
     }
 
     .col img {
